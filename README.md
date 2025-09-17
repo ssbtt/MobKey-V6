@@ -1,5 +1,8 @@
 Mobkey v6【 喵版 全屏】
 
+![Screenshot_2025-09-17-09-20-33-54_84181a524dcfbce864002b17997a7b1d](https://github.com/user-attachments/assets/ad166137-0f86-4271-9a1c-2c6d9147cd7b)
+
+
 由Zalith Luncher玩家 
 
 创作的仿Mobkey v4 布局
@@ -15,3 +18,4 @@ Mobkey v6【 喵版 全屏】
 桑葚不太甜SSBTT 等人
 
 提供大力支持
+
