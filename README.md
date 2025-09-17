@@ -1,7 +1,8 @@
 Mobkey v6【 喵版 亮色 全屏】
 
 由Zalith Luncher玩家 
-创作的 仿Mobkey v4 布局
+
+创作的仿Mobkey v4 布局
 
 【排名不分先后】
 
