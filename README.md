@@ -8,9 +8,10 @@
 
 ## 支持人员（排名不分先后）
 
-- 墨北MovTery（启动器开发者）
-- 喵喵子_official
-- 桑葚不太甜SSBTT 等人
+-  [墨北MovTery（启动器开发者）](https://github.com/MovTery) 
+-  [喵喵子_official](https://github.com/MiaoMiaoZi-official)
+-  [ssbtt](https://github.com/ssbtt)
+- 等人
 
 > （提供大力支持）
 
@@ -40,4 +41,4 @@
 
 ![Screenshot_2025-09-17-08-26-41-71_b9530d923fff59dfb5cdc6a8e8e3c8af](https://github.com/user-attachments/assets/3c4cb3f8-1e2f-421b-ac6a-e1350d2df223)
 
-
+```
