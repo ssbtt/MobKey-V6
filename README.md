@@ -1,8 +1,10 @@
-Mobkey v6【 喵版 亮色 全屏】
+Mobkey v6【 喵版 全屏】
 
 由Zalith Luncher玩家 
 
 创作的仿Mobkey v4 布局
+
+仅适用于 Zalith Luncher2
 
 【排名不分先后】
 
