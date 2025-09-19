@@ -1,4 +1,4 @@
-# Serendipity Key【喵版 全屏】
+# Serendipity Key 【全屏】
 
 - Serendipity is the luck some people have in finding or creating interesting or valuable things by chance.
 - 意外发现是一些人通过偶然的机会找到或创造有趣或有价值事物的运气。
