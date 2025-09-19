@@ -27,7 +27,7 @@
 
 
 - 该布局的外观不是原创，注意辨别！！
-- 该布局外观参考了 Mobkey V4
+- 该布局外观参考了 [Mobkey V4](https://b23.tv/45C8pz2)
 - 作者 [墨北MovTery（启动器开发者）](https://github.com/MovTery) 
   
 
