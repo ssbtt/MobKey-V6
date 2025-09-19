@@ -12,13 +12,24 @@
 
 ## 介绍
 
-- 由 Zalith Launcher 玩家一起创作的布局
-- 仅适用于 [Zalith Launcher2](https://github.com/ZalithLauncher/ZalithLauncher2)。
-
 - Serendipity key 布局 圆润 清爽 整洁 易于上手
 - 灵感来自 生活中的一切美好
 
 - 美好，不期而遇
+
+--- 
+
+### ⚠️请注意⚠️
+
+- 该布局为 Zalith Luncher2 原创布局
+- 由 Zalith Launcher 玩家一起创作
+- 仅适用于 [Zalith Launcher2](https://github.com/ZalithLauncher/ZalithLauncher2)。
+
+
+- 该布局的外观不是原创，注意辨别！！
+- 该布局外观参考了 Mobkey V4
+- 作者 [墨北MovTery（启动器开发者）](https://github.com/MovTery) 
+  
 
 ---
 
