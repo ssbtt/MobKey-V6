@@ -1,8 +1,8 @@
-# MobKey v6【喵版 全屏】
+# Serendipity Key【喵版 全屏】
 
 ## 介绍
 
-由 Zalith Launcher 玩家创作的仿 MobKey v4 布局，仅适用于 Zalith Launcher2。
+由 Zalith Launcher 玩家创作的布局，仅适用于 [Zalith Launcher2](https://github.com/ZalithLauncher/ZalithLauncher2)。
 
 ---
 
@@ -36,9 +36,4 @@
 ![Screenshot_2025-09-17-22-14-37-22_3b9d33c2740d58ec41195792c26ee74b](https://github.com/user-attachments/assets/4869ec8b-ad3f-4ea3-8a0c-e7039d4b6ad4)
 
 ---
-
-### 与 MobKey V4 布局对比
-
-![Screenshot_2025-09-17-08-26-41-71_b9530d923fff59dfb5cdc6a8e8e3c8af](https://github.com/user-attachments/assets/3c4cb3f8-1e2f-421b-ac6a-e1350d2df223)
-
 
