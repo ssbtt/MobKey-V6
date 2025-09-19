@@ -1,4 +1,5 @@
 # Serendipity Key [Full Screen]
+[简体中文](README.md)
 
 - Serendipity is the luck some people have in finding or creating interesting or valuable things by chance.
 - The birth of this control layout came from an accident.
