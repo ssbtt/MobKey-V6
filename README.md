@@ -37,23 +37,23 @@
 
 ### 主界面
 
-- 在最新发布的 Serendipity key Alpha V6 中
+![Screenshot_2025-09-19-19-22-35-49_3b9d33c2740d58ec41195792c26ee74b](https://github.com/user-attachments/assets/7aa2a463-704b-4a70-a857-eb4cadb4c306)
+  
+
+- 在最新发布的 Serendipity key Alpha 版本中
 - 我们删除了简介页
 - 给予玩家 最舒适 最美好的体验感
-
-![Screenshot_2025-09-17-09-20-33-54_84181a524dcfbce864002b17997a7b1d](https://github.com/user-attachments/assets/e6ae64f3-2b43-4005-9dae-219c57f1b4d6)
 
 ---
 
 ### 暗色模式全控件层
 
-![Screenshot_2025-09-17-22-14-19-44_3b9d33c2740d58ec41195792c26ee74b](https://github.com/user-attachments/assets/129693b0-9eed-4557-8395-953cc19a57ed)
+![Screenshot_2025-09-19-19-17-57-21_3b9d33c2740d58ec41195792c26ee74b](https://github.com/user-attachments/assets/6ba94099-a85a-4a1c-a238-0121148ef53d)
 
 ---
 
 ### 亮色模式全控件层
 
-![Screenshot_2025-09-17-22-14-37-22_3b9d33c2740d58ec41195792c26ee74b](https://github.com/user-attachments/assets/4869ec8b-ad3f-4ea3-8a0c-e7039d4b6ad4)
+![Screenshot_2025-09-19-19-18-13-67_3b9d33c2740d58ec41195792c26ee74b](https://github.com/user-attachments/assets/528b398e-9f41-423c-85a1-347fedbf0bc7)
 
 ---
-
