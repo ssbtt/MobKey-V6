@@ -45,7 +45,7 @@
 
 -  [墨北MovTery（启动器开发者）](https://github.com/MovTery) 
 -  [喵喵子_official](https://github.com/MiaoMiaoZi-official)
--  [桑椹不太甜ssbtt](https://github.com/ssbtt)
+-  [桑葚不太甜ssbtt](https://github.com/ssbtt)
 - 等人
 
 > （提供大力支持）
